@@ -7,7 +7,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.RadioGroup;
 
-import com.dicoding.picodiploma.myintentapp.R;
 
 public class MoveForResultActivity extends AppCompatActivity implements View.OnClickListener {
     private Button btnChoose;

@@ -4,7 +4,6 @@ import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 import android.widget.TextView;
 
-import com.dicoding.picodiploma.myintentapp.R;
 
 public class MoveWithDataActivity extends AppCompatActivity {
     public static final String EXTRA_AGE = "extra_age";

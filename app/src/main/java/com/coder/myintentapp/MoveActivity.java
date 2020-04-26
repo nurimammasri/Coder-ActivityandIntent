@@ -3,7 +3,6 @@ package com.coder.myintentapp;
 import android.os.Bundle;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.dicoding.picodiploma.myintentapp.R;
 
 public class MoveActivity extends AppCompatActivity {
 
